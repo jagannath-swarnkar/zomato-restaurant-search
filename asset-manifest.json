@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/zomato-restaurant-search/static/css/main.d1b05096.chunk.css",
-    "main.js": "/zomato-restaurant-search/static/js/main.effa81ca.chunk.js",
-    "main.js.map": "/zomato-restaurant-search/static/js/main.effa81ca.chunk.js.map",
+    "main.css": "/zomato-restaurant-search/static/css/main.610ff051.chunk.css",
+    "main.js": "/zomato-restaurant-search/static/js/main.899ff7b3.chunk.js",
+    "main.js.map": "/zomato-restaurant-search/static/js/main.899ff7b3.chunk.js.map",
     "runtime-main.js": "/zomato-restaurant-search/static/js/runtime-main.e347dcf1.js",
     "runtime-main.js.map": "/zomato-restaurant-search/static/js/runtime-main.e347dcf1.js.map",
-    "static/js/2.4df1bca5.chunk.js": "/zomato-restaurant-search/static/js/2.4df1bca5.chunk.js",
-    "static/js/2.4df1bca5.chunk.js.map": "/zomato-restaurant-search/static/js/2.4df1bca5.chunk.js.map",
+    "static/js/2.7b7c6005.chunk.js": "/zomato-restaurant-search/static/js/2.7b7c6005.chunk.js",
+    "static/js/2.7b7c6005.chunk.js.map": "/zomato-restaurant-search/static/js/2.7b7c6005.chunk.js.map",
     "index.html": "/zomato-restaurant-search/index.html",
-    "precache-manifest.021903bf9851199c203bc9fe23e0168c.js": "/zomato-restaurant-search/precache-manifest.021903bf9851199c203bc9fe23e0168c.js",
+    "precache-manifest.795f78fabd32f5dd60acb5487dbc715e.js": "/zomato-restaurant-search/precache-manifest.795f78fabd32f5dd60acb5487dbc715e.js",
     "service-worker.js": "/zomato-restaurant-search/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/zomato-restaurant-search/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.4df1bca5.chunk.js.LICENSE": "/zomato-restaurant-search/static/js/2.4df1bca5.chunk.js.LICENSE",
-    "static/media/logo.svg": "/zomato-restaurant-search/static/media/logo.5d5d9eef.svg"
+    "static/css/main.610ff051.chunk.css.map": "/zomato-restaurant-search/static/css/main.610ff051.chunk.css.map",
+    "static/js/2.7b7c6005.chunk.js.LICENSE": "/zomato-restaurant-search/static/js/2.7b7c6005.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.e347dcf1.js",
-    "static/js/2.4df1bca5.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.effa81ca.chunk.js"
+    "static/js/2.7b7c6005.chunk.js",
+    "static/css/main.610ff051.chunk.css",
+    "static/js/main.899ff7b3.chunk.js"
   ]
 }
